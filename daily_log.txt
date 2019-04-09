@@ -8,4 +8,4 @@ Target:
 Points Learned:
 	Python:
 		1. Number Guessing Game:
-			1. 
+			1. abc
