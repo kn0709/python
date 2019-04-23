@@ -4,7 +4,6 @@ Target:
 	Python:
 		1. Number Guessing Game(Done)
 		2. Study
-		3. ABC
 
 Points Learned:
 	Python:
