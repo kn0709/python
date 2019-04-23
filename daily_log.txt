@@ -9,4 +9,6 @@ Points Learned
 	Python:
 		1. Number Guessing Game:
 			1. abc
+			2222
+			
 			2. Trigger
