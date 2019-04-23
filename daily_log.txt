@@ -4,7 +4,7 @@ Target:
 	Python:
 		1. Number Guessing Game(Done)
 Points Learned
-	Python:
+	Python:new
 		1. Number Guessing Game
 			1. abc
 			2. Trigger
